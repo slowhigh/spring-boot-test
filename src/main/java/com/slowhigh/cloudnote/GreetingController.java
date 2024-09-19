@@ -1,4 +1,4 @@
-package com.example.restservice;
+package com.slowhigh.cloudnote;
 
 import java.util.concurrent.atomic.AtomicLong;
 

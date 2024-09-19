@@ -1,1 +1,1 @@
-rootProject.name = "resrservice"
+rootProject.name = "cloudnote"

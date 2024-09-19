@@ -1,4 +1,4 @@
-package com.example.restservice;
+package com.slowhigh.cloudnote;
 
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.get;
 import static org.springframework.test.web.servlet.result.MockMvcResultHandlers.print;
